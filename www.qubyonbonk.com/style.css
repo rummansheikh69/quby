@@ -278,7 +278,7 @@ iframe {
   background: linear-gradient(
     to top,
     #ffffff 0%,
-    transparent 90%,
+    transparent 20%,
     #ffffff 100%
   );
   pointer-events: none;
