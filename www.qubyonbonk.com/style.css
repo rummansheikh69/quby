@@ -139,9 +139,13 @@ iframe {
   gap: 24px;
 }
 
-.main.logo {
-  width: 280px;
-  height: auto;
+.tard_title {
+  text-align: center;
+  font-size: 78px;
+  font-weight: 600;
+  color: #ffffff;
+  font-family: "Lazydog";
+  line-height: 1;
   user-select: none;
 }
 
