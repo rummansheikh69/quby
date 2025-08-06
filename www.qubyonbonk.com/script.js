@@ -110,7 +110,7 @@ document.addEventListener("DOMContentLoaded", function () {
   const addressButton = document.querySelector(".address");
   if (addressButton) {
     addressButton.addEventListener("click", async function () {
-      const contractAddress = "Hdmx6XcGyWNdEwYGcBaAQLYWgzknkbonk";
+      const contractAddress = "5qb7EzgKz2WC3McRgFhZKpTJFHAE8m1nJgdTw9Kfpump";
 
       try {
         await navigator.clipboard.writeText(contractAddress);
